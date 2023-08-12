@@ -1,0 +1,11 @@
+//Dom Events
+//1.Event Object
+    --Event Type: Change, Submit, Load, Unload, open, Play,
+    Canplay,pause,playing,progress,ended,resize,scroll,toggle etc
+--Properties: type,target,preventDefault()
+
+//2.MouseEvent object
+//3.KeyboardEvent object
+//4.FocusEvent object
+//5.ClipboardEvent object
+//6.DragEvent object
